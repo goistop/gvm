@@ -1,0 +1,9 @@
+package: github.com/ntfs32/gvm
+import:
+- package: github.com/PuerkitoBio/goquery
+  version: ^1.1.0
+- package: github.com/andybalholm/cascadia
+- package: github.com/toml-lang/toml
+  version: ^0.4.0
+- package: gopkg.in/cheggaaa/pb.v1
+  version: ^2.0.6

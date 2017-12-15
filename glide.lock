@@ -1,0 +1,52 @@
+hash: 898e461470b77dab947ede3d0ab3ed3c096af68987d99453b39bf994c7794ed4
+updated: 2017-12-12T11:03:36.132447+08:00
+imports:
+- name: github.com/andybalholm/cascadia
+  version: 349dd0209470eabd9514242c688c403c0926d266
+- name: github.com/BurntSushi/toml
+  version: b26d9c308763d68093482582cea63d69be07a0f0
+- name: github.com/kataras/iris
+  version: 31c83c2655f4558775380f060b72876d16d8fde9
+  subpackages:
+  - core/errors
+- name: github.com/mattn/go-colorable
+  version: 5411d3eea5978e6cdc258b30de592b60df6aba96
+  repo: https://github.com/mattn/go-colorable
+- name: github.com/mattn/go-isatty
+  version: 57fdcb988a5c543893cc61bce354a6e24ab70022
+  repo: https://github.com/mattn/go-isatty
+- name: github.com/PuerkitoBio/goquery
+  version: e1271ee34c6a305e38566ecd27ae374944907ee9
+- name: github.com/satori/go.uuid
+  version: 5bf94b69c6b68ee1b541973bb8e1144db23a194b
+- name: github.com/toml-lang/toml
+  version: cea4a77e97e9292aeb612af70b1be4f36cea4357
+- name: github.com/urfave/cli
+  version: 119bb6564841921ce6f1401e0f5d75317bdd9f4d
+- name: golang.org/x/net
+  version: d866cfc389cec985d6fda2859936a575a55a3ab6
+  subpackages:
+  - html
+  - html/atom
+- name: golang.org/x/sys
+  version: e24f485414aeafb646f6fca458b0bf869c0880a1
+  repo: https://go.googlesource.com/sys
+  subpackages:
+  - unix
+- name: gopkg.in/cheggaaa/pb.v1
+  version: c112833d014c77e8bde723fd0158e3156951639f
+- name: gopkg.in/cheggaaa/pb.v2
+  version: c112833d014c77e8bde723fd0158e3156951639f
+  subpackages:
+  - termutil
+- name: gopkg.in/fatih/color.v1
+  version: 570b54cabe6b8eb0bc2dfce68d964677d63b5260
+- name: gopkg.in/mattn/go-colorable.v0
+  version: 167de6bfdfba052fa6b2d3664c8f5272e23c9072
+- name: gopkg.in/mattn/go-isatty.v0
+  version: 0360b2af4f38e8d38c7fce2a9f4e702702d73a39
+- name: gopkg.in/mattn/go-runewidth.v0
+  version: 9e777a8366cce605130a531d2cd6363d07ad7317
+- name: gopkg.in/VividCortex/ewma.v1
+  version: b24eb346a94c3ba12c1da1e564dbac1b498a77ce
+testImports: []
